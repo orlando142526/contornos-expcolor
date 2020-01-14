@@ -6,7 +6,7 @@ public class Contornos {
 
 
     public static void main(String[] args) {
-        System.out.println("hola Damian");
+        System.out.println("chao Damian");
     }
     
 }
